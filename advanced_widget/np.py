@@ -1,0 +1,2 @@
+Dict = {}
+print(all(Dict))
